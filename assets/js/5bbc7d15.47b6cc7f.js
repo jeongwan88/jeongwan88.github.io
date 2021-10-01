@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_template=self.webpackChunkblog_template||[]).push([[537],{2573:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/cassandra","name":"cassandra","count":1,"permalink":"/blog/tags/cassandra"}')}}]);

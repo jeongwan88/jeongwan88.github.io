@@ -2,53 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jeongwan88.github.io/blog</id>
     <title>Jay의 블로그 Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2021-10-01T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jeongwan88.github.io/blog"/>
     <subtitle>Jay의 블로그 Blog</subtitle>
     <icon>https://jeongwan88.github.io/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Welcome]]></title>
-        <id>welcome</id>
-        <link href="https://jeongwan88.github.io/blog/welcome"/>
-        <updated>2021-08-26T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[디렉터리를 만들고 관련 사진을 첨부할 수 있습니다.]]></summary>
+        <title type="html"><![CDATA[[Cassandra] field larger than field limit (131072)]]></title>
+        <id>bug_linux_cassandra</id>
+        <link href="https://jeongwan88.github.io/blog/bug_linux_cassandra"/>
+        <updated>2021-10-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[현상]]></summary>
         <author>
-            <name>David Lee</name>
-            <uri>https://www.linkedin.com/in/civilizeddev/</uri>
+            <name>Jay Kim</name>
+            <uri>https://github.com/jeongwan88</uri>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MDX Blog Post]]></title>
-        <id>mdx-blog-post</id>
-        <link href="https://jeongwan88.github.io/blog/mdx-blog-post"/>
-        <updated>2021-08-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Blog posts support Docusaurus Markdown features, such as MDX.]]></summary>
+        <title type="html"><![CDATA[[PlayFramework] Window 에서 명령줄이 길다고 실행 되지 않을 때]]></title>
+        <id>bug_window_play</id>
+        <link href="https://jeongwan88.github.io/blog/bug_window_play"/>
+        <updated>2021-10-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[현상]]></summary>
         <author>
-            <name>Andes Noh</name>
-            <uri>https://github.com/andes-noh</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long Blog Post]]></title>
-        <id>long-blog-post</id>
-        <link href="https://jeongwan88.github.io/blog/long-blog-post"/>
-        <updated>2019-05-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This is the summary of a very long blog post,]]></summary>
-        <author>
-            <name>Delbert Jo</name>
-            <uri>https://github.com/cosy1922</uri>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First Blog Post]]></title>
-        <id>first-blog-post</id>
-        <link href="https://jeongwan88.github.io/blog/first-blog-post"/>
-        <updated>2019-05-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
-        <author>
-            <name>Cannon Shin</name>
-            <uri>https://github.com/newcannon</uri>
+            <name>Jay Kim</name>
+            <uri>https://github.com/jeongwan88</uri>
         </author>
     </entry>
 </feed>
