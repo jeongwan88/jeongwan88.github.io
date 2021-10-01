@@ -8,6 +8,13 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[[AkkaServerless] 한프로젝트에서 2개 이상의 API Component를 만들 때]]></title>
+            <link>https://jeongwan88.github.io/blog/tip_akkaserverless</link>
+            <guid>tip_akkaserverless</guid>
+            <pubDate>Fri, 01 Oct 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[현상]]></description>
+        </item>
+        <item>
             <title><![CDATA[[Cassandra] field larger than field limit (131072)]]></title>
             <link>https://jeongwan88.github.io/blog/bug_linux_cassandra</link>
             <guid>bug_linux_cassandra</guid>

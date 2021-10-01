@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog_template=self.webpackChunkblog_template||[]).push([[775],{4834:function(e){e.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/akkaserverless","name":"akkaserverless","count":1,"permalink":"/blog/tags/akkaserverless"}')}}]);

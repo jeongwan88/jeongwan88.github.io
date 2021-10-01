@@ -8,6 +8,17 @@
     <subtitle>Jay의 블로그 Blog</subtitle>
     <icon>https://jeongwan88.github.io/img/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[[AkkaServerless] 한프로젝트에서 2개 이상의 API Component를 만들 때]]></title>
+        <id>tip_akkaserverless</id>
+        <link href="https://jeongwan88.github.io/blog/tip_akkaserverless"/>
+        <updated>2021-10-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[현상]]></summary>
+        <author>
+            <name>Jay Kim</name>
+            <uri>https://github.com/jeongwan88</uri>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[Cassandra] field larger than field limit (131072)]]></title>
         <id>bug_linux_cassandra</id>
         <link href="https://jeongwan88.github.io/blog/bug_linux_cassandra"/>
