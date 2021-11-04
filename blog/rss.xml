@@ -4,9 +4,16 @@
         <title>Jay의 블로그 Blog</title>
         <link>https://jeongwan88.github.io/blog</link>
         <description>Jay의 블로그 Blog</description>
-        <lastBuildDate>Wed, 20 Oct 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Akka gRPC] Getting Started]]></title>
+            <link>https://jeongwan88.github.io/blog/tip_akka_gRPC_</link>
+            <guid>tip_akka_gRPC_</guid>
+            <pubDate>Thu, 04 Nov 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Akka gRPC Plugin을 이용해 gRPC Sample Code를 만들어 본다.]]></description>
+        </item>
         <item>
             <title><![CDATA[[AkkaServerless] Getting Started]]></title>
             <link>https://jeongwan88.github.io/blog/tip_akkaserverless_start1</link>
@@ -22,16 +29,16 @@
             <description><![CDATA[현상]]></description>
         </item>
         <item>
-            <title><![CDATA[[PlayFramework] Window 에서 명령줄이 길다고 실행 되지 않을 때]]></title>
-            <link>https://jeongwan88.github.io/blog/bug_window_play</link>
-            <guid>bug_window_play</guid>
+            <title><![CDATA[[Cassandra] field larger than field limit (131072)]]></title>
+            <link>https://jeongwan88.github.io/blog/bug_linux_cassandra</link>
+            <guid>bug_linux_cassandra</guid>
             <pubDate>Fri, 01 Oct 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[현상]]></description>
         </item>
         <item>
-            <title><![CDATA[[Cassandra] field larger than field limit (131072)]]></title>
-            <link>https://jeongwan88.github.io/blog/bug_linux_cassandra</link>
-            <guid>bug_linux_cassandra</guid>
+            <title><![CDATA[[PlayFramework] Window 에서 명령줄이 길다고 실행 되지 않을 때]]></title>
+            <link>https://jeongwan88.github.io/blog/bug_window_play</link>
+            <guid>bug_window_play</guid>
             <pubDate>Fri, 01 Oct 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[현상]]></description>
         </item>
